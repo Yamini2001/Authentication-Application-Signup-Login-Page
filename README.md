@@ -7,10 +7,11 @@ This is a user authentication application that includes sign up, login, and pass
 ## Screenshots
 
 ### Sign Up Page
-![Sign Up Page](./screenshots/SignUp Page.png)
+![SignUp Page](https://github.com/user-attachments/assets/f2fc31b8-aca6-4061-8d05-d84b84e85efb)
+
 
 ### Login Page
-![Login Page](./screenshots/Login.png)
+![Login ](https://github.com/user-attachments/assets/37af7b51-b404-4310-955a-87f17cc39494)
 
 
 ## Features
